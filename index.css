@@ -29,6 +29,12 @@ ul.changelog {
   list-style-type: square;
 }
 
+#changelog {
+  width: max-content;
+  margin: auto;
+  text-align: left;
+}
+
 a {
   color:aliceblue;
 }
