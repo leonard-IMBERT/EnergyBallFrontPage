@@ -25,6 +25,10 @@ ul {
   list-style-type: none;
 }
 
+ul.changelog {
+  list-style-type: square;
+}
+
 a {
   color:aliceblue;
 }
